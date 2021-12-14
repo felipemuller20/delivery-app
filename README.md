@@ -1,4 +1,4 @@
-# ✌️ Boas vindas ao repositório do projeto App de Delivery!
+# ✌️ Boas vindas ao repositório do App de Delivery!
 
 Este projeto foi desenvolvido com o intuito de simular um aplicativo de delivery de bebidas!
 
